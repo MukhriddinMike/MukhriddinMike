@@ -2,7 +2,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
   
-### <img src="https://github.com/MukhriddinMike/MukhriddinMike/blob/83aa81ae6640d02d5e282fc4ecd3a9b66104f605/giphy.gif" width="45px">
+### <img src="https://github.com/MukhriddinMike/MukhriddinMike/blob/83aa81ae6640d02d5e282fc4ecd3a9b66104f605/giphy.gif" width="450px">
 ## I am Muslim, Husband, Developer, and Teacher  !!
 
 - 
