@@ -1,5 +1,6 @@
 ### Hi there, I'm Mike - aka [MikePlusPlus]👋
-
+<img src="https://github.com/MukhriddinMike/MukhriddinMike/blob/08ec714b0f9df1cdb3c30444878a074cd80d9a6e/giphy.gif" width="29px">
+<p align="center">
 
 ## I am Muslim, Husband, Developer, and Teacher  !!
 
