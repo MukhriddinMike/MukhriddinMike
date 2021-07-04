@@ -4,14 +4,17 @@
   
 ### <img src="https://github.com/MukhriddinMike/MukhriddinMike/blob/83aa81ae6640d02d5e282fc4ecd3a9b66104f605/giphy.gif" width="450px">
 ## I am Muslim, Husband, Developer, and Teacher  !!
+  
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Create 5 production apps, start YouTube channel and share my knowledge
 - ⚡ Fun fact: I love talking about movies / Gangster
 
 ### Quran Playing 🎧
+  
+### <img src="https://github.com/MukhriddinMike/MukhriddinMike/blob/96d5b4366d451d7e61fb642ca4c5bde030935ec6/mekka.gif" width="45px"> 
 
 [<img src="https://quranonline.net/al-kahf/" alt="Quran al-Kahf" width="350" />](https://quranonline.net/al-kahf/)
 
