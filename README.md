@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Create 5 production apps, start YouTube channel and share my knowledge
+- 🥅 2022 Goals: Create 25 production apps, start YouTube channel and share my knowledge
 - ⚡ Fun fact: I love talking about movies / Gangster
 
 ### Quran Playing 🎧
