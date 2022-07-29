@@ -2,10 +2,8 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 
-
-<iframe src="https://giphy.com/embed/nVTa8D8zJUc2A" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nVTa8D8zJUc2A">via GIPHY</a></p>
   
-### <img src="https://github.com/MukhriddinMike/MukhriddinMike/blob/83aa81ae6640d02d5e282fc4ecd3a9b66104f605/giphy.gif" width="450px">
+### <img src="https://github.com/MukhriddinMike/MukhriddinMike/blob/83aa81ae6640d02d5e282fc4ecd3a9b66104f605/giphy.gif" width="250px">
 ## I am Muslim, Husband, Developer, and Teacher  !!
   
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
