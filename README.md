@@ -3,7 +3,7 @@
 <p align="center">
 
   
-### <img src="https://github.com/mikegitdev/mikegitdev/blob/main/giphy.gif" width="250px">
+### <img src="https://github.com/mikegitdev/mikegitdev/blob/main/giphy.gif" width="450px">
 ## I am Muslim, Husband, Developer, and Teacher  !!
   
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
@@ -13,7 +13,7 @@
 - 🥅 2022 Goals: Create 25 production apps, start YouTube channel and share my knowledge
 - ⚡ Fun fact: I love talking about movies / Gangster
 
-### Quran Playing 🎧
+### If(Today == "Friday") 🎧
   
 ### <img src="https://github.com/MukhriddinMike/MukhriddinMike/blob/96d5b4366d451d7e61fb642ca4c5bde030935ec6/mekka.gif" width="45px"> 
 
