@@ -1,6 +1,6 @@
-### Hi there, I'm Mike - aka [MikePlusPlus]
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi there, I'm Mike - aka [MikePlusPlus] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
+
 
   
 ### <img src="https://github.com/mikegitdev/mikegitdev/blob/main/giphy.gif" width="450px">
