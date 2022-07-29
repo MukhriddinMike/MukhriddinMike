@@ -72,12 +72,19 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Repos</summary>
 
   <img align="left" alt="Mikeplusplus's GitHub Repos" src="https://github.com/mikegitdev?tab=repositories" />
 
 </details>
 
+
+<details>
+  <summary>:zap: GitHub Achievements</summary>
+
+  <img align="left" alt="Mikeplusplus's GitHub Repos" src="https://github.com/mikegitdev?tab=achievements" />
+
+</details>
 
 [twitter]: https://twitter.com/mike_plusplus
 [instagram]: https://www.instagram.com/mike.plusplus
