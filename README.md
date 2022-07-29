@@ -74,7 +74,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mikeplusplus's GitHub Stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukhriddinMike&theme=dark&show_icons=true)" />
+  <img align="left" alt="Mikeplusplus's GitHub Repos" src="https://github.com/mikegitdev?tab=repositories" />
 
 </details>
 
